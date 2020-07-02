@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 06df19785b4688b469cfc0877986c1aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8848221758904864728
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_0
+  - first:
+      213: -4350529234405345130
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_1
+  - first:
+      213: 1175321346269971454
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_2
+  - first:
+      213: 2493680932902872007
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_3
+  - first:
+      213: 3583630247132037817
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_4
+  - first:
+      213: 5861231401896800992
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_5
+  - first:
+      213: 8817526398647543917
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_6
+  - first:
+      213: 7212135167294642430
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_0
+  - first:
+      213: -6983625013788466470
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_1
+  - first:
+      213: 6862429703516075057
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_2
+  - first:
+      213: 3654943172258122034
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_3
+  - first:
+      213: -8370505599710683437
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_4
+  - first:
+      213: -8490631500653611915
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_5
+  - first:
+      213: -1430348235237884308
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_6
+  - first:
+      213: 4029703151323834062
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_7
+  - first:
+      213: 4892359310732931555
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_8
+  - first:
+      213: -7923168477244507985
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_9
+  - first:
+      213: 5574225789406816237
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_10
+  - first:
+      213: -2119212213345610209
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_11
+  - first:
+      213: 4653500188930293756
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_12
+  - first:
+      213: -7468391237913094302
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_13
+  - first:
+      213: -4682286365481357270
+    second: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef813be19b6a61460800000000000000
+      internalID: 7212135167294642430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tons_of_tileset_3_10___gaia_trees_by_phyromatical_d81epok_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b44aaf304b0290800000000000000
+      internalID: -7923168477244507985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
