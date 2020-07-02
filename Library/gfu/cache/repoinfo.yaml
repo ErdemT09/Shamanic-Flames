@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-02T19:19:01.880+03:00
-  initializedAtString: 2020-07-02T19:19:01.880+03:00
+  lastUpdatedAtString: 2020-07-02T20:09:41.280+03:00
+  initializedAtString: 2020-07-02T20:09:41.280+03:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/ErdemT09/Shamanic-Flames.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/ErdemT09/Shamanic-Flames.git
+    trackingBranch: master
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/ErdemT09/Shamanic-Flames.git
   currentHead: 
