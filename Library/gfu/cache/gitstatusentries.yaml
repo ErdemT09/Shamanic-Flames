@@ -13,18 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-03T10:52:42.698+03:00
-  initializedAtString: 2020-07-03T10:49:56.544+03:00
+  lastUpdatedAtString: 2020-07-03T15:26:01.126+03:00
+  initializedAtString: 2020-07-03T15:16:34.054+03:00
   entries:
-  - path: Assets\Art\animations\p_sprite.controller
-    fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Assets\Art\animations\p_sprite.controller
-    projectPath: Assets\Art\animations\p_sprite.controller
+  - path: Assets\Scenes\scene.unity
+    fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Assets\Scenes\scene.unity
+    projectPath: Assets\Scenes\scene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Library\ArtifactDB
     projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -55,6 +61,12 @@ MonoBehaviour:
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\My Games\Pagan Arrow\Shamanic Flames\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
